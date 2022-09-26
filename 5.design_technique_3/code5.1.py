@@ -1,6 +1,6 @@
 # coding: utf-8
 # Frog問題を動的計画法で解く
-INF = 2^60
+INF = 2**60
 
 if __name__ == "__main__":
     # 入力
